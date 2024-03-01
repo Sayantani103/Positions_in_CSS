@@ -1,0 +1,45 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    }
+
+header{
+    height: 50px;
+    background-color: #2b2922;
+    color: #f0efee;
+    position: sticky;
+    top: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(197, 186, 186);
+    margin-right: 10%;
+}
+
+.elements{
+    margin-top: 1%;
+}
+
+.LOGO{
+    margin-left: 2%;
+    margin-right: 20%;
+    color: cornsilk;
+}
+
+.content{
+    margin: 1%;
+}
+
+.buttn{
+    display: inline;
+    border: 3px solid #a08f36;
+    border-radius: 10px;
+    color: #a08f36;
+    
+}
+button{
+    background: transparent;
+    color: rgb(228, 173, 72);
+}
+

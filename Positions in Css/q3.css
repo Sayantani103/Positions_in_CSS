@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+}
+.card{
+    border: 2px solid black;
+    height: 267px;
+}
+.card_img{
+        float: right;
+        padding-left:2%;
+}
+
+
